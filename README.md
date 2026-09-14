@@ -252,6 +252,8 @@ ZOSMF_PASSWORD
 
 # 🔮 CI/CD Integration
 
+<img width="251" height="594" alt="image" src="https://github.com/user-attachments/assets/7eeeda04-c358-404c-80ff-fbef55074752" />
+
 PyZBuild provides a foundation for integrating Mainframe builds into modern CI/CD pipelines.
 
 Future pipeline stages can include automated testing, deployment, approval gates, and notifications.
