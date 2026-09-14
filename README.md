@@ -309,7 +309,7 @@ This approach allows organizations to retain their Mainframe applications while 
 
 # 👨‍💻 Author
 
-**Parthi B**
+**Parthiban B**
 
 Mainframe Developer | Mainframe Modernization | DevOps Automation
 
