@@ -45,6 +45,8 @@ Organizations often depend on established Mainframe build processes that require
 
 # 🏗️ Solution Architecture
 
+<img width="282" height="703" alt="image" src="https://github.com/user-attachments/assets/58e7e565-ff24-448f-a4fe-b0bc3b8163dd" />
+
 * **Python Automation** - Controls the Mainframe build workflow
 * **z/OSMF REST APIs** - Provides programmatic interaction with z/OS
 * **JCL** - Defines the Mainframe build process
